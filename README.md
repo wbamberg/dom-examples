@@ -58,4 +58,4 @@ Code examples that accompany various MDN DOM and Web API documentation pages.
 
 - The ["webgl-examples"](webgl-examples/README.md) directory contains a number of WebGL examples that demonstrate the [WebGL API](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API), which is used for 2D and 3D graphics on the web.
 
-- The ["window-postmessage"](window-postmessage) directory contains an example of using [Window.postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage) to send data between windows. For details of this example, see [its README](window-postmessage/README.md).
+- The ["window-postmessage"](window-postmessage) directory contains an example of using [Window.postMessage()](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage) to send data between windows. For details of this example, see [its README](whttps://github.com/mdn/dom-examples/blob/window-postmessage/window-postmessage/README.md).
