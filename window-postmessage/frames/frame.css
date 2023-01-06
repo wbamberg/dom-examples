@@ -1,0 +1,10 @@
+button {
+    margin: 1rem 0;
+}
+
+#output {
+    height: 1rem;
+    width: 15rem;
+    padding: .5rem;
+    border: 1px solid black;
+}

@@ -1,0 +1,10 @@
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 1rem;
+}
+
+button {
+  margin: .5rem 0;
+}
